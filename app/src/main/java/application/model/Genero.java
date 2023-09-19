@@ -24,10 +24,12 @@ public class Genero {
    public void setId(int id){
     this.id = id;
    }
-   
-
-
-
+   public String getNome(){
+    retune nome;
+   }
+   public void setNome(String nome){
+   this.nome = nome;
+   }
 }
 
 
